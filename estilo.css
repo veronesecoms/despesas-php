@@ -1,0 +1,175 @@
+html, body, .capa{
+    height:100%;
+}
+
+body{
+    background: url('imagens/capa.png');
+}
+
+
+.divconsultas{
+    background-color: #888888;
+    border-radius: 11px 11px 11px;
+}
+
+.espacamento{
+    margin-right: 40px;
+}
+
+.opcoes{
+    display: inline-block;
+    background-color: gray;
+}
+
+.container {
+    margin: 0 auto;
+    width: 90%;
+    text-align: center;
+}
+
+.teste {
+    border-radius: 5px;
+    width: 300px;
+    background-color: #f2f2f2;
+    padding: 3px;
+}
+
+.thumb{
+    width: 140px;
+    height: 140px;
+    display: inline-block;
+}
+
+
+.img-logo{
+    height: 40px;
+    margin-left: 15px;
+    width: 132px;
+    display:block;
+    background: url('imagens/favicon.png') no-repeat;
+    background-size: contain;
+    color: transparent;
+}
+
+nav.navbar-transparente{
+    padding: 15px 0px;
+    background: rgba(0,0,0,0.6);
+    border: none;
+}
+
+.navbar-brand{
+    padding: 5px 15px;
+}
+
+.divisor{
+    width: 1px;
+    height: 16px;
+    background: white;
+    margin: 16px 15px;
+}
+
+
+.navbar-inverse .navbar-nav>li>a{
+    color:white;
+}
+
+
+.navbar-inverse .navbar-nav>li>a:hover{
+    color:#9bf0e1;
+}
+
+/*imagem de capa*/
+
+.capa{
+    display: table;
+    width: 100%;
+}
+
+
+.texto-capa{
+    text-align: center;
+    color:white;
+    display: table-cell;
+    vertical-align:middle;
+    font-stretch: expanded;
+}
+
+h1{
+    font-size: 100px;
+    font-weight: ;
+    letter-spacing: -0.05em;
+    margin-bottom: 50px;
+}
+
+/*botões*/
+
+#area_grafico_despesas{
+    background-color: #4E342E;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px white;
+}
+
+#area_grafico_despesas_entrada{
+    background-color: #4E342E;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px white;
+}
+
+.customizado{
+    width: 540px;
+    color:white;
+    padding: 10px 35px;
+    text-transform: uppercase;
+    transition: background 0.4s, color 0.4s;
+}
+
+.editar{
+    width: 110px;
+    color:white;
+    text-transform: uppercase;
+    transition: background 0.4s, color 0.4s;
+}
+
+.cor{
+    background: #505050;
+}
+
+.excluir{
+    background: #EA4335;
+}
+
+
+.btn-custom{
+    color:white;
+    border-radius: 500px;
+    padding: 10px 35px;
+    text-transform: uppercase;
+    margin: 0px 15px;
+    transition: background 0.4s, color 0.4s;
+}
+
+.btn-inscrever{
+    width: 300px;
+    color:white;
+    padding: 10px 35px;
+    text-transform: uppercase;
+    transition: background 0.4s, color 0.4s;
+}
+
+.btntestee{
+    width: 220px;
+    color:white;
+    padding: 10px 35px;
+    text-transform: uppercase;
+    transition: background 0.4s, color 0.4s;
+}
+
+.btn-roxo{
+    background: #cab577;
+}
+
+.btn-roxo:hover{
+    background: #838060;
+    color:white;
+}
+
