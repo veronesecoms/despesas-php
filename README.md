@@ -1,6 +1,6 @@
 # despesas
 
-sistema de controle de despesas.
+Sistema de controle de despesas.
 
 O sistema conta:
 Tela de login com diversas verificações;
