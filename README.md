@@ -15,6 +15,9 @@ Consultas com filtros e relatórios.
 *Gráficos: Google Chart
 
 ![Tela de Login](screenshots/despesas-login.png)
+
 ![Home](screenshots/inicio.png)
-![Crud](crud.png)
-![Pdf](pdf.png)
+
+![Crud](screenshots/crud.png)
+
+![Pdf](screenshots/pdf.png)
