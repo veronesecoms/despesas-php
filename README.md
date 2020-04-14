@@ -1,6 +1,6 @@
 # :moneybag: Despesas
 
-a simple financial controller using PHP.
+a simple financial controller with PHP.
 
 ![Tela de Login](screenshots/despesas-login.png)
 
